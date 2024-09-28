@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristian</h1>
 <h3 align="center">Hi, I'm Cristian, a frontend web developer with a passion for creating engaging and functional user experiences. I specialize in HTML, CSS, JavaScript, ReactJS, TypeScript, Next.js, Tailwind, Bootstrap, and Git, always striving to expand my skill set and keep up with the latest trends in web development. My journey began in online marketing, where I developed a deep understanding of user behavior, which I now use to build responsive and user-centric web applications. Whether it's a sleek landing page or a complex web app, I enjoy transforming ideas into interactive digital experiences. Driven by creativity and problem-solving, I'm always ready to take on new challenges and build solutions that make a real impact.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: savohi.com</h3>
 <p align="left">
 </p>
 
